@@ -3,7 +3,3 @@ env
 
 # Jupyter checkpoints
 .ipynb_checkpoints
-
-# Model files
-*.pkl
-*.joblib
