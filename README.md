@@ -1,6 +1,6 @@
 # Zero to Mastery Machine Learning Course
 
-This repository contains all of the code, notebook, images and other materials related to the Zero to Mastery Machine Learning Course on Udemy.
+This repository contains all of the code, notebooks and other stuff related to the Zero to Mastery Machine Learning Course on Udemy.
 
 https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
 
