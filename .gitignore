@@ -3,3 +3,6 @@ env
 
 # Jupyter checkpoints
 .ipynb_checkpoints
+
+# large data files
+TrainAndValid.csv
