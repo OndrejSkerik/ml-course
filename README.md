@@ -25,5 +25,6 @@ https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-
 * Matplotlib
 * scikit-learn
 * Google Colab
+* TensorFlow
 
 Work in progress, tools will be updated...
